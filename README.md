@@ -12,8 +12,6 @@
 
 Добавьте в системную переменную PATH папку C:\chromedriver. Как это сделать в разных версиях Windows, описано здесь: https://www.computerhope.com/issues/ch000549.htm.
 
-Также в этом проекте используется библиотека Pytest.
-
 Для установки зависимостей воспользуйтесь командой:
 
 `pip install -r requirements.txt`
